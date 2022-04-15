@@ -13,6 +13,7 @@ namespace API.Models
         public byte gioi_tinh { get; set; }
         public DateTime ngay_sinh { get; set; }
         public string ghi_chu { get; set; }
+        public int nhom { get; set; }
     }
     
 

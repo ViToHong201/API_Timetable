@@ -9,7 +9,7 @@ namespace API.Controllers
 {
     public class ConnectSever
     {
-        string strCon = @"Data Source=LAPTOP-1J12A8QF\MainServer;Initial Catalog=thoi_khoa_bieu;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework";
+        string strCon = @"Data Source=LAPTOP-1J12A8QF\MAINSERVER;Initial Catalog=thoi_khoa_bieu_sinh_vien;Integrated Security=True";
         public SqlConnection sqlCon = null;
         public void OpenConnection()
         {

@@ -191,6 +191,7 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\ConnectSever.cs" />
     <Compile Include="Controllers\GiangVienController.cs" />
+    <Compile Include="Controllers\GiaoVuController.cs" />
     <Compile Include="Controllers\LichHocController.cs" />
     <Compile Include="Controllers\LopHocPhanController.cs" />
     <Compile Include="Controllers\SinhVienController.cs" />
